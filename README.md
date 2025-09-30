@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Ruben  
 
-I'm a freelance **Microsoft 365 engineer** with a focus on **Azure**.  
-In my spare time I enjoy 🍺 brewing beer, 🦌 hunting, 🌲 forest walks, and visiting the sauna.  
+I'm currently working as a **Cloud Engineer at Rubicon**.  
+I love my job because I truly enjoy **learning** and improving every day.  
 
-## 🔧 What I'm working on
-- Microsoft 365 & Azure projects  
-- Automation with PowerShell  
-- Freelance assignments  
+## 🌱 About me
+- Strong background in **Microsoft 365**, which helps me put things into perspective  
+- Focused on gaining a deeper understanding of **Azure** for the past 6 years  
+- I like to validate my skills by working towards certifications from time to time  
+- In my free time I enjoy 🍺 brewing beer, 🦌 hunting, 🌲 forest walks, and visiting the sauna  
 
 ## 📫 How to reach me
-- LinkedIn: [your-link-here](https://www.linkedin.com/in/yourprofile)  
+- LinkedIn: [Ruben Gardenier](https://www.linkedin.com/in/rubengardenier/)  
 - GitHub: [@rubengardenier](https://github.com/rubengardenier)  
